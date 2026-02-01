@@ -40,3 +40,32 @@ ethiopia-fi-forecast/
 ├── dashboard/              # Streamlit dashboard (Task 5)
 ├── models/                 # Forecasting models (Task 4)
 └── README.md
+```
+## How to Run
+## Setup environment
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+
+## Run notebooks
+jupyter notebook
+
+## Data Sources
+
+World Bank Global Findex Database
+
+National Bank of Ethiopia publications
+
+Operator reports (Telebirr, M-Pesa)
+
+Infrastructure proxies (internet penetration, electricity access)
+
+## Next Steps
+
+Upcoming tasks include:
+
+Event impact modeling (Task 3)
+
+Forecasting inclusion outcomes for 2025–2027 (Task 4)
+
+Interactive dashboard development (Task 5)
