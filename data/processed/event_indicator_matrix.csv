@@ -1,0 +1,6 @@
+event_category,event_indicator_proxy,indicator_code,impact_direction,impact_strength,lag_months,confidence,rationale
+infrastructure,Fayda Digital ID rollout,ACC_ACCOUNT_OWNERSHIP,+,medium,6,medium,Reduces KYC friction and onboarding barriers
+infrastructure,Fayda Digital ID rollout,USG_DIGITAL_PAYMENT,+,low,9,medium,Indirect effect via increased access
+product_launch,Telebirr launch/expansion,USG_DIGITAL_PAYMENT,+,high,3,high,Direct driver of digital payment usage and familiarity
+policy,Interoperability / EthSwitch rails,USG_DIGITAL_PAYMENT,+,medium,6,medium,Improves network effects and usability across providers
+infrastructure,Electricity / connectivity improvements,ACC_ACCOUNT_OWNERSHIP,+,low,12,low,Enabler for sustained access and usage
