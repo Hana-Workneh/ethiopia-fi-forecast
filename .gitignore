@@ -7,6 +7,8 @@ data/processed/*
 !data/processed/ethiopia_fi_unified_data_enriched.csv
 !data/processed/event_indicator_matrix.csv
 !data/processed/event_impacts_expanded.csv
+!data/processed/forecast_2025_2027.csv
+
 models/
 data/raw/
 reports/figures/
