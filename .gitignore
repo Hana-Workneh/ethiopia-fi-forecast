@@ -8,6 +8,7 @@ data/processed/*
 !data/processed/event_indicator_matrix.csv
 !data/processed/event_impacts_expanded.csv
 models/
+data/raw/
 reports/figures/
 .DS_Store
 Thumbs.db
